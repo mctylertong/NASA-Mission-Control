@@ -1,12 +1,12 @@
 {
   "dependencies": {
-    "cors": "^2.8.5"
+    "cors": "^2.8.5",
+    "express": "^4.18.1"
   },
   "name": "nasa-project",
   "description": "",
   "version": "1.0.0",
   "main": "index.js",
-  "devDependencies": {},
   "scripts": {
     "install-server": "npm install --prefix server",
     "install-client": "npm install --prefix client",

@@ -5,5 +5,5 @@ function getAllLaunches(req, res) {
 }
 
 module.exports = {
-    getAllLaunches
+    getAllLaunches,
 }
